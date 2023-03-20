@@ -33,8 +33,8 @@ int main() {//begining main function
 		amount = distance * 50 ; //calculate the amount
 	}
 	
-	printf("Amount to be paid : %.2f" , amount) ; 
+	printf("Amount to be paid : %.2f" , amount) ; //print amount to be paid 
 	
   
   return 0;
-}
+}//end main function 
